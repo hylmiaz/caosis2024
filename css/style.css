@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Coolvetica';
+  src: url('/font/coolvetica\ rg.otf');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  font-family: 'Coolvetica';
+  font-size: 2rem;
+}
